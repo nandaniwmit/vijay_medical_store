@@ -1,0 +1,6 @@
+{
+  "name": "Vijay Medical Store",
+  "description": "Trusted Pharmacy in Gaya, Bihar offering genuine medicines, medical supplies, health devices, and WhatsApp prescription ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
