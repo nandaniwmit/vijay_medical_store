@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vijay-medical-store.vercel.app/sitemap.xml
